@@ -20,3 +20,5 @@ fields:
 - type: list
   name: keywords
   label: keywords
+pages:
+- content/post/ทดสอบ-new-post.md
