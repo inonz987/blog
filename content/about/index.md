@@ -8,8 +8,8 @@ activeMenu: about
 
 ## Contact Info
 
-If you want to contact me for anything, please send me an [email](mailto:monkeyarmno@gmail.com).
+If you want to contact me for anything, please send me an [email](mailto:inonz987@gmail.com).
 
 ### About This Website
 
-This website is created with [Hugo](https://gohugo.io/) - a static site generator. Hosted on [Netlify](https://www.netlify.com/). 
+This website is created with [Hugo](https://gohugo.io/) - a static site generator. Hosted on [Netlify](https://www.netlify.com/).
