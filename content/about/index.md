@@ -2,11 +2,9 @@
 layout: page
 title: Armno Prommarak
 activeMenu: about
----
 
-<p class="lead">
-  I am Armno P. and I am a Frontend Developer at <a href="https://buzzwoo.de" target="_blank" rel="noopener">BUZZWOO!</a>.
-</p>
+---
+<p class="lead"> Hi there! I am Chanon. </p>
 
 My primary focus is around HTML/CSS, JavaScript, Angular, and Frontend Performance in general.
 
