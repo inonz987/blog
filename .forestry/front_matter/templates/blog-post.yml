@@ -17,5 +17,3 @@ fields:
     schema:
       format: markdown
   label: maintext
-pages:
-- content/post/test1.md
