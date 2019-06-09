@@ -1,4 +1,19 @@
 ---
 label: blog post
 hide_body: false
-fields: []
+fields:
+- name: main
+  type: text
+  config:
+    required: false
+  label: main
+  hidden: false
+- name: maintext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: maintext
